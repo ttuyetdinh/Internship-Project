@@ -1,0 +1,33 @@
+.login {
+  padding: 30px;
+  height: 70vh;
+  width: 300px;
+  margin: 70px auto;
+}
+.avatarStyle {
+  background-color: rgb(16, 76, 206) !important;
+}
+
+.cssForgotPass {
+  margin: 20px auto !important ;
+  text-align: right;
+}
+
+.cssSignUp {
+  margin: 40px auto !important;
+}
+.title {
+  margin: 150px 0 auto;
+  align-content: center;
+  text-align: center;
+  color: rgb(13, 58, 155);
+}
+.content {
+  text-align: justify;
+  margin-right: 10px;
+  color: rgb(13, 58, 155);
+}
+.cssimage {
+  width: 500px;
+  height: 300px;
+}
